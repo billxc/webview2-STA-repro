@@ -102,5 +102,5 @@ catch (InvalidCastException exception) when (exception.HResult == -2147467262 /*
 ## Environment
 
 - WebView2 SDK: `1.0.3912.50`
-- .NET 8
+- .NET 10
 - Windows 11
